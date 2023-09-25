@@ -3,7 +3,7 @@
 ## Project Overview
 This Power BI project was developed as part of a final exam and is designed to provide comprehensive insights into sales and customer data. The dashboard offers a user-friendly interface for visualizing key performance indicators, analyzing trends, and gaining actionable insights.
 
-![Dashboard Screenshot]![Summary](https://github.com/SlmP1/-Sales-and-Customer-Analysis/assets/97853352/4f694c1d-088b-4e91-9760-f089b7daf892)
+[Summary](https://github.com/SlmP1/-Sales-and-Customer-Analysis/assets/97853352/4f694c1d-088b-4e91-9760-f089b7daf892)
 ![Products](https://github.com/SlmP1/-Sales-and-Customer-Analysis/assets/97853352/29e8124a-85c8-443f-9b3e-0e86b4a8bd82)
 ![Customers](https://github.com/SlmP1/-Sales-and-Customer-Analysis/assets/97853352/ab11f5b9-4309-4059-80f2-130dd8cbb5c5)
 
